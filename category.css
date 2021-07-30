@@ -1,0 +1,87 @@
+/*category*/
+.mainn{
+    width: 100%;
+    position: relative;
+    z-index: 999;
+    background: white;
+    margin-top: 30%;
+    background-size: cover;
+    background-position: center;
+    color: #fff !important;  
+}
+#pro1{
+    position: absolute;
+    left: 275px;
+    top: 0px;
+}
+#pro2{
+    position: absolute;
+    left: 545px;
+    top: 0px;
+}
+#pro3{
+    position: absolute;
+    left: 810px;
+    top: 0px;
+}
+.services h3{
+    color: #333 
+}
+.services
+{   
+    background-size: cover;
+    background-position: center;
+    color: #fff !important;  
+}
+.service{
+    margin: 90px;
+    text-align: center;
+}
+.words h1{
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    
+}
+.words h1::after{
+    content: '';
+    display: block;
+    width: 150px;
+    height: 3px;
+    margin: 10px auto;
+}
+.words p{
+    font-size: 15px;
+    color: #333
+}
+/* category section*/
+.section-index{
+    color: white;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-family: poppins !important;
+}
+section{
+    padding: 140px;
+}
+.section-index{
+    color: #d3ae87 ;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: poppins !important;
+}
+.section-heading{
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 18px;
+}
+.section-subheading{
+    color: white;
+    margin: 10px 0;
+    
+}
+.section-info{
+    font-size: 17px;
+    color: white;
+}
+/* category section*/
